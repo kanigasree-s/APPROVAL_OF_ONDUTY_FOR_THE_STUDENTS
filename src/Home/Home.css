@@ -1,0 +1,28 @@
+.highlightFirstLetter {
+    color: rgba(48, 162, 255, 1);
+    font-size: 60px;
+}
+
+.college-name {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 70vh;
+}
+
+.name {
+    font-size: 50px;
+    color: wheat;
+}
+
+.od-approval {
+    font-size: 30px;
+    color: rgba(48, 162, 255, 1);
+    margin-top: 0;
+}
+
+.index-20 {
+    z-index: 20;
+}
